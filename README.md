@@ -32,7 +32,7 @@ Currently a self-taught cybersecurity enthusiast while majoring Computer Science
 
 ### Badges
 
-![tryhackme stats](https://raw.githubusercontent.com/abcdgick/abcdgick/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/abcdgick.png" alt="TryHackMe">
 
 
 ### My GitHub Stats
