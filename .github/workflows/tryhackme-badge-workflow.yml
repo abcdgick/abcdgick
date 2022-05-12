@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "abcdgick"
-          GITHUB_TOKEN: $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
+          GITHUB_TOKEN: $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
