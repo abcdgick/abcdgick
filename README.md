@@ -34,7 +34,8 @@ Currently a self-taught cybersecurity enthusiast while majoring Computer Science
 
 ![tryhackme stats](https://raw.githubusercontent.com/abcdgick/abcdgick/master/assets/thm_propic.png)
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 <a href="http://www.github.com/abcdgick"><img src="https://github-readme-stats.vercel.app/api?username=abcdgick&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="abcdgick's GitHub stats" /></a>
 
