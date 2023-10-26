@@ -7,11 +7,10 @@ Cybersecurity Enthusiast, Application Developer, Web Developer
 Currently a self-taught cybersecurity enthusiast while majoring Computer Science at a University. Interested in ethical hacking in general. Enjoy doing CTF (Capture The Flag) challenges in as a way to teach myself. Hope to become a Cybersecurity Specialist post-graduation.
 
 *   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [HackTheBox](http://app.hackthebox.com/profile/609810)
+*   🖥️  See my portfolio at [TryHackMe](https://tryhackme.com/p/abcdgick) and [HackTheBox](http://app.hackthebox.com/profile/609810)
 *   ✉️  You can contact me at [jonathankrisna@protonmail.com](mailto:jonathankrisna@protonmail.com)
 *   🚀  I'm currently working on [Flutter Web App](https://github.com/abcdgick/Form-Register)
-*   🧠  I'm learning Flutter, Python, Cryptography, Web Application Vulnerability
-*   🤝  I'm open to collaborating on Web Application Vulnerability Scanner
+*   🧠  I'm learning Python, Cryptography, and Web Application Vulnerability
 *   ⚡  CTFs I have worked on: HackTheBox (Machines and Challenges), TryHackMe
 
 ### Skills
